@@ -1,2 +1,3 @@
 # Contact-_ManagementSystem
-Using Reactjs
+Developing Contact Management system in ReactJs
+using Components,props,states,hooks.
